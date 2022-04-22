@@ -1,0 +1,20 @@
+{
+  "name": "qa-cypress-testframework",
+  "version": "1.0.0",
+  "description": "Test automation cypress",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "dependencies": {
+    "cypress": "^9.5.3"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
